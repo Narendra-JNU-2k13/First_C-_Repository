@@ -1,2 +1,3 @@
 # First_C-_Repository
-C++ Programs
+
+This Repository is mainly made to contain C++ programs.
